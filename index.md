@@ -31,9 +31,9 @@
 | 14:00-15:00 | パネル討論「企業/アカデミアで研究する意義」 |
 | 15:00-15:10 | クロージング |
 
-| 時間        | head two          |
+| 時間        | 内容          |
 |:-------------|:------------------|
-| ok           | good swedish fish |
+| 12:40-12:50           | good swedish fish |
 | out of stock | good and plenty   |
 | ok           | good `oreos`      |
 | ok           | good `zoute` drop |
