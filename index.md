@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://keyakkie.github.io/ipsj83-industry-panel/style.css" type="text/css" />
 
-## 企画の趣旨
+## <span class="fs150">企画の趣旨</span>
+## <span class="fs125">企画の趣旨</span>
 一口に企業研究所といってもそれぞれ企業ごとに異なるミッション・研究スタイルを持ち，更には個の企業研究者のうちに秘める想いはさまざまです．
   
   本企画では，多方面で活躍する研究者の皆様をお招きして，普段なかなか知る機会のない企業研究者としての熱い想いを語って頂きます．
