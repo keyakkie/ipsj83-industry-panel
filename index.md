@@ -15,7 +15,7 @@
 <br clear="left">
 1. <img src="https://drive.google.com/uc?export=view&id=1u6wViXN3DGJt5Y-94ULnjVGpdLg_7Rso" width="128" align="left" hspace="10"> **牛久 祥孝**氏: 2013年日本学術振興会特別研究員およびMicrosoft Research Redmond Intern。 2014年東京大学大学院情報理工学系研究科博士課程修了、NTTコミュニケーション科学基礎研究所入所。 2016年東京大学情報理工学系研究科講師。 2018年よりオムロンサイニックエックス株式会社 Principal Investigatorおよび2019年より株式会社Ridge-i Chief Research Officer、現在に至る。 主としてコンピュータビジョンや自然言語処理を対象として、機械学習によるクロスメディア理解に従事。  
 <br clear="left">
-1. <img src="https://drive.google.com/fuc?export=view&id=1L9-z6VWfxPPJkMQR8zjOr3T9UNcVkRfA" width="128" align="left" hspace="10"> **吉野 幸一郎**氏: 理化学研究所ロボティクスプロジェクトチームリーダーおよび奈良先端科学技術大学院大学客員准教授． 2009年慶應義塾大学環境情報学部卒業． 2011年京都大学大学院情報学研究科修士課程修了． 2014年同博士後期課程修了． 日本学術振興会特別研究員（PD）， 奈良先端科学技術大学院大学情報科学研究科助教を経て， 2020年より現職． 京都大学博士（情報学）． 音声言語処理および自然言語処理，特に音声対話システムに関する研究に従事． 2013年度人工知能学会研究会優秀賞，2018年度言語処理学会論文賞，IWSDS2020 Best Paper Award等受賞． IEEE，SIGDIAL, ACL, 情報処理学会，言語処理学会，日本ロボット学会各会員．  
+1. <img src="https://drive.google.com/uc?export=view&id=1L9-z6VWfxPPJkMQR8zjOr3T9UNcVkRfA" width="128" align="left" hspace="10"> **吉野 幸一郎**氏: 理化学研究所ロボティクスプロジェクトチームリーダーおよび奈良先端科学技術大学院大学客員准教授． 2009年慶應義塾大学環境情報学部卒業． 2011年京都大学大学院情報学研究科修士課程修了． 2014年同博士後期課程修了． 日本学術振興会特別研究員（PD）， 奈良先端科学技術大学院大学情報科学研究科助教を経て， 2020年より現職． 京都大学博士（情報学）． 音声言語処理および自然言語処理，特に音声対話システムに関する研究に従事． 2013年度人工知能学会研究会優秀賞，2018年度言語処理学会論文賞，IWSDS2020 Best Paper Award等受賞． IEEE，SIGDIAL, ACL, 情報処理学会，言語処理学会，日本ロボット学会各会員．  
 <br clear="left">
 1. <img src="https://drive.google.com/uc?export=view&id=15xd9FsJX_p61KZQSdXmOuvtH41mpHNho" width="128" align="left" hspace="10"> **数原 良彦**氏: 2008年 慶應義塾大学大学院前期博士課程修了。2008年-2014年日本電信電話株式会社研究員、2014年-2016年株式会社リクルートホールディングス研究員、MIT Media Lab Visiting Scientistを経て、2017年より現職。博士（工学）。  
 <br clear="left">
