@@ -11,7 +11,7 @@
 
 ## プログラム
 ### パネル討論「企業/アカデミアで研究する意義」
-![左寄せ](https://drive.google.com/uc?export=view&id=1i1Zw2W6qZlRcGq0Z5kJyUknjFsYC98Di){.pull-left}
+![左寄せ:w100](https://drive.google.com/uc?export=view&id=1i1Zw2W6qZlRcGq0Z5kJyUknjFsYC98Di)
 **test**: あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
 <div class="clearfix"></div>
 
