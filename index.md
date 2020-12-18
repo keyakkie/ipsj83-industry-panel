@@ -19,6 +19,7 @@
 <br clear="left">
 1. <img src="https://drive.google.com/uc?export=view&id=15xd9FsJX_p61KZQSdXmOuvtH41mpHNho" width="128" align="left" hspace="10"> **数原 良彦**氏: 2008年 慶應義塾大学大学院前期博士課程修了。2008年-2014年日本電信電話株式会社研究員、2014年-2016年株式会社リクルートホールディングス研究員、MIT Media Lab Visiting Scientistを経て、2017年より現職。博士（工学）。  
 <br clear="left">
+
 ### パネル討論「研究テーマの立て方」
 1. <img src="https://drive.google.com/uc?export=view&id=15i4cgIjPtZpDGAfGxSUo90Dxrx67u2EI" width="128" align="left" hspace="10"> **小山田 昌史**氏: 2018年 筑波大学大学院博士課程修了．博士（工学）．データ工学と機械学習の研究に従事．山下記念研究賞（情報処理学会），全国大会優秀賞（人工知能学会）など受賞．  
 <br clear="left">
