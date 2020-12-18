@@ -1,5 +1,5 @@
-<link rel=”stylesheet” href=”https://keyakkie.github.io/ipsj83-industry-panel/style.css" type=”text/css” />
-                                                                                           
+<link rel="stylesheet" href="https://keyakkie.github.io/ipsj83-industry-panel/style.css" type="text/css" />
+
 # 企画の趣旨
 一口に企業研究所といってもそれぞれ企業ごとに異なるミッション・研究スタイルを持ち，更には個の企業研究者のうちに秘める想いはさまざまです．
   
