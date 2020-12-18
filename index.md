@@ -23,7 +23,7 @@
 ### パネル討論「研究テーマの立て方」
 1. <img src="https://drive.google.com/uc?export=view&id=15i4cgIjPtZpDGAfGxSUo90Dxrx67u2EI" width="128" align="left" hspace="10"> **小山田 昌史**氏: 2018年 筑波大学大学院博士課程修了．博士（工学）．データ工学と機械学習の研究に従事．山下記念研究賞（情報処理学会），全国大会優秀賞（人工知能学会）など受賞．  
 <br clear="left">
-1. <img src="https://drive.google.com/uc?export=view&id=1TdZap8fMT8izkqdsUmluOtU8YX87XQDd" width="128" align="left" hspace="10"> **関 喜史**氏: 株式会社Gunosy共同創業者であり、現在は同社で上席研究員を務める。2017年に東京大学大学院工学系研究科博士後期課程修了。専門は主に推薦システム、デジタル広告、ユーザ行動分析などの機械学習・データマイニング応用。2017年に言語処理学会の論文賞を受賞、またRecsys、KDDなどに論文が採択されている。  
+1. <img src="https://drive.google.com/uc?export=view&id=1oCFycIMn8c981oawM_wW7QYXaoN3Hr3z" width="128" align="left" hspace="10"> **関 喜史**氏: 株式会社Gunosy共同創業者であり、現在は同社で上席研究員を務める。2017年に東京大学大学院工学系研究科博士後期課程修了。専門は主に推薦システム、デジタル広告、ユーザ行動分析などの機械学習・データマイニング応用。2017年に言語処理学会の論文賞を受賞、またRecsys、KDDなどに論文が採択されている。  
 <br clear="left">
 1. <img src="https://drive.google.com/uc?export=view&id=11hEBqmXK5lCD6RBopU6Y3P6kuOre8qeR" width="128" align="left" hspace="10"> **落合 桂一**氏: 2008年千葉大学大学院博士前期課程修了．同年株式会社NTTドコモ入社．2017年東京大学大学院工学系研究科技術経営戦略学専攻博士後期課程修了．博士（工学）．2020年8月より東京大学特任助教．SNS，位置情報，ヘルスケアデータやスマートフォンログ解析の研究開発に従事．KDDCUP 2019 Regular ML Track 1st Prize, ICWSM2020 Best Paper Honorable Mentions受賞．  
 <br clear="left">
