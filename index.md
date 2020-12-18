@@ -26,7 +26,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=11hEBqmXK5lCD6RBopU6Y3P6kuOre8qeR" width="128" align="left" hspace="10"> **落合 桂一**氏: 2008年千葉大学大学院博士前期課程修了．同年株式会社NTTドコモ入社．2017年東京大学大学院工学系研究科技術経営戦略学専攻博士後期課程修了．博士（工学）．2020年8月より東京大学特任助教．SNS，位置情報，ヘルスケアデータやスマートフォンログ解析の研究開発に従事．KDDCUP 2019 Regular ML Track 1st Prize, ICWSM2020 Best Paper Honorable Mentions受賞．
 
-* **竹之内 隆夫**氏: 
+**竹之内 隆夫**氏: 
 
 ### タイムテーブル
 | 時間 | プログラム | パネラ・司会者 |
