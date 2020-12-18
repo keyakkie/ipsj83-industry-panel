@@ -21,7 +21,7 @@
 
 ## <span class="fs150">プログラム</span>
 ### <span class="fs150">パネル討論「企業/アカデミアで研究する意義」</span>
-1. <img src="https://drive.google.com/uc?export=view&id=1i1Zw2W6qZlRcGq0Z5kJyUknjFsYC98Di" width="128" align="left" hspace="10"> <span style="font-size: 200%;">**酒井 哲也**</span>氏 (早稲田大学 基幹理工学部情報理工学科): 1993年早稲田大学修士課程修了．博士(工学)早稲田大学．ACM Distinguished Member．2000～2001年，英ケンブリッジ大学客員研究員．2009～2013年，Microsoft Research Asia (北京) Lead Researcher．通算約20年の企業経験の後，2013年9月に早稲田大学基幹理工学部情報理工学科に着任． 本学会論文賞(2回)・山下賞，FIT船井ベストペーパー賞・論文賞など受賞．本学会FI研・IFAT主査，論文誌TOD共同編集委員長など歴任．2014～2020年，Springer社Information Retrieval Journal共同編集長．2019～2022年，ACM SIGIR Vice-Chair．  
+1. <img src="https://drive.google.com/uc?export=view&id=1i1Zw2W6qZlRcGq0Z5kJyUknjFsYC98Di" width="128" align="left" hspace="10"> <span class="fs150">**酒井 哲也**氏 (早稲田大学 基幹理工学部情報理工学科)</span>: 1993年早稲田大学修士課程修了．博士(工学)早稲田大学．ACM Distinguished Member．2000～2001年，英ケンブリッジ大学客員研究員．2009～2013年，Microsoft Research Asia (北京) Lead Researcher．通算約20年の企業経験の後，2013年9月に早稲田大学基幹理工学部情報理工学科に着任． 本学会論文賞(2回)・山下賞，FIT船井ベストペーパー賞・論文賞など受賞．本学会FI研・IFAT主査，論文誌TOD共同編集委員長など歴任．2014～2020年，Springer社Information Retrieval Journal共同編集長．2019～2022年，ACM SIGIR Vice-Chair．  
 <br clear="left">
 1. <img src="https://drive.google.com/uc?export=view&id=1u6wViXN3DGJt5Y-94ULnjVGpdLg_7Rso" width="128" align="left" hspace="10"> **牛久 祥孝**氏 (オムロン サイニックエックス株式会社 Research Administrative Division/Ridge-i): 2013年日本学術振興会特別研究員およびMicrosoft Research Redmond Intern。 2014年東京大学大学院情報理工学系研究科博士課程修了、NTTコミュニケーション科学基礎研究所入所。 2016年東京大学情報理工学系研究科講師。 2018年よりオムロンサイニックエックス株式会社 Principal Investigatorおよび2019年より株式会社Ridge-i Chief Research Officer、現在に至る。 主としてコンピュータビジョンや自然言語処理を対象として、機械学習によるクロスメディア理解に従事。  
 <br clear="left">
