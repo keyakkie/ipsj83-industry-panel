@@ -37,7 +37,7 @@
 <br clear="left">
 1. <img src="https://drive.google.com/uc?export=view&id=11hEBqmXK5lCD6RBopU6Y3P6kuOre8qeR" width="128" align="left" hspace="10"> <span class="fs125">**落合 桂一**</span>氏 (株式会社 NTTドコモ クロステック開発部/東京大学大学院 工学系研究科技術経営戦略学専攻):<br /> <span class="fs75">2008年千葉大学大学院博士前期課程修了．同年株式会社NTTドコモ入社．2017年東京大学大学院工学系研究科技術経営戦略学専攻博士後期課程修了．博士（工学）．2020年8月より東京大学特任助教．SNS，位置情報，ヘルスケアデータやスマートフォンログ解析の研究開発に従事．KDDCUP 2019 Regular ML Track 1st Prize, ICWSM2020 Best Paper Honorable Mentions受賞．</span>  
 <br clear="left">
-1. <img src="https://drive.google.com/uc?export=view&id=1lSCaer09DqCe-y40HksqY3_27bQ7lPI4" width="128" align="left" hspace="10"> <span class="fs125">**竹之内 隆夫**</span>氏 (株式会社デジタルガレージ　DG Lab本部 Chief Technology Officer (Security)):<br /> <span class="fs75">2005年電気通信大学大学院博士前期課程を修了し、日本電気株式会社に入社。中央研究所にて匿名化や秘密計算などのセキュリティ・プライバシ技術の研究開発に従事。2013年同大学大学院博士後期課程修了、博士(工学)。2019年株式会社デジタルガレージに入社。現在、研究開発部門のDG LabにおけるChief Technology Officer (Security)として、秘密計算の実用化を含むセキュリティ・プライバシ技術の事業開発に従事。特に秘密計算に関して、技術記事の執筆、講演、コンソーシアム設立など、社会実装に向けて精力的に活動中。</span>  
+1. <img src="https://drive.google.com/uc?export=view&id=1lSCaer09DqCe-y40HksqY3_27bQ7lPI4" width="128" align="left" hspace="10"> <span class="fs125">**竹之内 隆夫**</span>氏 (株式会社デジタルガレージ　DG Lab本部 Chief Technology Officer (Security):<br /> <span class="fs75">2005年電気通信大学大学院博士前期課程を修了し、日本電気株式会社に入社。中央研究所にて匿名化や秘密計算などのセキュリティ・プライバシ技術の研究開発に従事。2013年同大学大学院博士後期課程修了、博士(工学)。2019年株式会社デジタルガレージに入社。現在、研究開発部門のDG LabにおけるChief Technology Officer (Security)として、秘密計算の実用化を含むセキュリティ・プライバシ技術の事業開発に従事。特に秘密計算に関して、技術記事の執筆、講演、コンソーシアム設立など、社会実装に向けて精力的に活動中。</span>  
 
 ### <span class="fs150">タイムテーブル</span>
 
