@@ -19,6 +19,10 @@
 * 本企画はオンラインイベントです．参加のための Zoom ミーティングの URL は後日当ページにてお伝えさせて頂きます．
 * 事前登録は必須ではございませんが，全国大会への無料登録にご協力ください (<a href="https://www.ipsj.or.jp/event/taikai/83/event_reserve.html">登録ページ</a>)．
 
+## <span class="fs150">質問募集</span>
+[質問募フォーム](https://forms.gle/i6uGkL8PjSzZsXTj9)  
+質問の募集締切 (一次募集)：2021.2.19(金)
+
 ## <span class="fs150">プログラム</span>
 ### <span class="fs150">パネル討論「企業/アカデミアで研究する意義」</span>
 1. <img src="https://drive.google.com/uc?export=view&id=1i1Zw2W6qZlRcGq0Z5kJyUknjFsYC98Di" width="128" align="left" hspace="10"> <span class="fs125">**酒井 哲也**</span>氏 (早稲田大学 基幹理工学部情報理工学科):<br /> <span class="fs75">1993年早稲田大学修士課程修了．博士(工学)早稲田大学．ACM Distinguished Member．2000～2001年，英ケンブリッジ大学客員研究員．2009～2013年，Microsoft Research Asia (北京) Lead Researcher．通算約20年の企業経験の後，2013年9月に早稲田大学基幹理工学部情報理工学科に着任． 本学会論文賞(2回)・山下賞，FIT船井ベストペーパー賞・論文賞など受賞．本学会FI研・IFAT主査，論文誌TOD共同編集委員長など歴任．2014～2020年，Springer社Information Retrieval Journal共同編集長．2019～2022年，ACM SIGIR Vice-Chair．</span>  
@@ -48,10 +52,6 @@
 | 13:50-14:00 | 休憩 |  |
 | 14:00-15:00 | パネル討論:<br />「**研究テーマの立て方**」 | パネラ：小山田 昌史，関 喜史，落合 桂一，竹之内 隆夫<br />司会：高橋 翼 |
 | 15:00-15:10 | クロージング | 司会：小口 正人 |
-
-## <span class="fs150">質問募集</span>
-[質問募フォーム](https://forms.gle/i6uGkL8PjSzZsXTj9)
-質問の募集締切 (一次募集)：2021.2.19(金)
 
 ## <span class="fs150">運営</span>
 * 欅 惇志 (株式会社デンソーアイティーラボラトリ)
