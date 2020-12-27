@@ -21,7 +21,7 @@
 
 ## <span class="fs150">質問募集</span>
 [質問募フォーム](https://forms.gle/i6uGkL8PjSzZsXTj9)  
-質問の募集締切 (一次募集)：2021.2.19(金)
+締切：2021.2.19(金)
 
 ## <span class="fs150">プログラム</span>
 ### <span class="fs150">パネル討論「企業/アカデミアで研究する意義」</span>
