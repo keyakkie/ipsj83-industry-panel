@@ -20,7 +20,7 @@
 * 事前登録は必須ではございませんが，全国大会への無料登録にご協力ください (<a href="https://www.ipsj.or.jp/event/taikai/83/event_reserve.html">登録ページ</a>)．
 
 ## <span class="fs150">質問募集</span>
-[質問募フォーム](https://forms.gle/i6uGkL8PjSzZsXTj9)  
+[質問募集フォーム](https://forms.gle/i6uGkL8PjSzZsXTj9)  
 締切：2021.2.19(金)
 
 ## <span class="fs150">プログラム</span>
