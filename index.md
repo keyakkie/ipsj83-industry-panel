@@ -61,3 +61,4 @@
 
 ## <span class="fs150">後援</span>
 情報処理学会新世代企画委員会
+<img src="https://drive.google.com/uc?export=view&id=1LGB_mduCl6SkcC9Nn7ns3rqJ72v2oGpx" width="128" align="left" hspace="10">
