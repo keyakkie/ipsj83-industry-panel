@@ -17,7 +17,7 @@
 ## <span class="fs150">ご参加</span>
 * 本企画は Zoom Webinar にて配信します．予め最新版の Zoom をご準備ください．
 * 本企画は情報処理学会第83回全国大会企画セッションの一つです．参加者の方はポータルよりイベントに参加頂けます．
-* その他の参加者の方は，<a href="https://www.ipsj.or.jp/event/taikai/83/event_reserve.html">参加登録フォーム</a>よりご登録ください．参加用 URL を送付いたします．
+* その他の参加者の方は，<a href="https://forms.gle/eYQKuv8BaTJc1AbQ8">参加登録フォーム</a>よりご登録ください．参加用 URL を送付いたします．
 * 全国大会のイベント企画限定の<a href="https://www.ipsj.or.jp/event/taikai/83/event_reserve.html">無料登録</a>にもご協力ください (本企画以外にもご参加頂けるようになります)
 
 ## <span class="fs150">プログラム</span>
